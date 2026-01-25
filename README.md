@@ -31,3 +31,4 @@ we'll test and evalute output
 we'll put the data in of all satellites
 we'll train the AI by "using Scikit Learn"
 ## Presentating + Utilizing the AI model
+Make a simple app with a AI model
