@@ -7,5 +7,5 @@ Technology: Python, NumPy, Pandas, Flask
 ## Code details:
 - We are using Python based ecosystem for our project
 - The data used for our project is stored in CSV files
-
+## Our plan
 
