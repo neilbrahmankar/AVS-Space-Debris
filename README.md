@@ -32,3 +32,8 @@ we'll put the data in of all satellites
 we'll train the AI by "using Scikit Learn"
 ## Presentating + Utilizing the AI model
 Make a simple app with a AI model
+## Our ML model (Machine Learning) 
+### What is A Machine Learning Model
+What is a Machine Learning Model? A Machine Learning Model is a subset of AI that allows computers to learn from their data allowing themselves to improve their own accuracy without being programmed for every single task.
+### Our ML model (Machine Learning
+We are developing a Machine Learning model specialized in orbital collision prediction. Our current framework integrates satellite coordinates, metadata, and usage data to assess risk levels between objects. Since orbital paths are constantly shifting, we are now focused on implementing real-time tracking capabilities to account for the dynamic nature of space traffic."
