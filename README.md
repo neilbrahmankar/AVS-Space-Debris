@@ -32,7 +32,7 @@ we'll put the data in of all satellites
 we'll train the AI by "using Scikit Learn"
 ## Presentating + Utilizing the AI model
 Make a simple app with a AI model
-## Our ML model (Machine Learning) 
+# Our ML model (Machine Learning) 
 ### What is A Machine Learning Model
 What is a Machine Learning Model? A Machine Learning Model is a subset of AI that allows computers to learn from their data allowing themselves to improve their own accuracy without being programmed for every single task.
 ### Our ML model (Machine Learning
