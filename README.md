@@ -36,4 +36,9 @@ Make a simple app with a AI model
 ### What is A Machine Learning Model
 What is a Machine Learning Model? A Machine Learning Model is a subset of AI that allows computers to learn from their data allowing themselves to improve their own accuracy without being programmed for every single task.
 ### Our ML model (Machine Learning
-We are developing a Machine Learning model specialized in orbital collision prediction. Our current framework integrates satellite coordinates, metadata, and usage data to assess risk levels between objects. Since orbital paths are constantly shifting, we are now focused on implementing real-time tracking capabilities to account for the dynamic nature of space traffic."
+We are developing a Machine Learning model specialized in orbital collision prediction. Our current framework integrates satellite coordinates, metadata,
+and usage data to assess risk levels between objects. Since orbital paths are constantly shifting, we are now focused on implementing real-time tracking capabilities to account for the dynamic nature of space traffic."
+## New Updates
+As of right now we have been using AI to find whether or not two satellites will colide or not using Binary Code 0 or 1 whether or not it will work or fail. Also we have started making documents on all of the Satellite pairs using Google Docs. We estimate we should have around 2.5-10 million column.
+### Goals 
+Our new goals are now to start learning on how trajecteries work for satellites and will start tracking at what time will 2 satellites will collide.
